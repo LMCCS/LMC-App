@@ -17,6 +17,7 @@ Possible Development Environments
 -Corona SDK
 
 
+Password: Lmcsc2016!
 
 
 
