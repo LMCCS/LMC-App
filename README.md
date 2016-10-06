@@ -1,1 +1,1 @@
-# LMC-App
+# Los Medanos College Student App
