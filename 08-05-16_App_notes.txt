@@ -1,0 +1,22 @@
+LMC the App
+-----------
+-Test Answers
+-Map
+-Virtual Bulletin
+-Tutoring(where are tutors?)
+-"Whats going on at LMC right now?"
+-Note share
+-Instructors/office
+-Ratings/notes/book sales
+-Insite/canvas access/integration (Need permission)
+
+
+Possible Development Environments
+---------------------------------
+-Android studio
+-Corona SDK
+
+
+
+
+
